@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Transmitter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Transmitter_jar</output-path>
+    <root id="archive" name="Transmitter.jar">
+      <element id="module-output" name="Transmitter" />
+    </root>
+  </artifact>
+</component>
